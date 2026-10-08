@@ -1,95 +1,89 @@
 <div align="center">
 
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,45:16112B,75:312E81,100:0D1117&height=210&section=header&text=MUSAB%20UMAIR&fontSize=46&fontColor=EDE9FE&fontAlignY=36&desc=CYBERSECURITY%20%7C%20NETWORKING%20%7C%20LINUX&descAlignY=58&descSize=16&descColor=67E8F9&animation=fadeIn" width="100%"/>
+
+<br>
+
 # `MUSAB UMAIR`
 
-### `Cybersecurity Learner` · `Networking` · `Linux Explorer`
+### <img src="https://img.shields.io/badge/CYBERSECURITY-LEARNER-A78BFA?style=flat-square&labelColor=0D1117"/> <img src="https://img.shields.io/badge/NETWORKING-FOCUS-60A5FA?style=flat-square&labelColor=0D1117"/> <img src="https://img.shields.io/badge/LINUX-EXPLORER-22D3EE?style=flat-square&labelColor=0D1117"/>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:111827,100:6d28d9&height=180&section=header&text=MUSAB%20UMAIR&fontSize=42&fontColor=ffffff&fontAlignY=35&desc=Learning%20•%20Building%20•%20Exploring&descAlignY=58&descSize=18&animation=fadeIn" width="100%"/>
+<br>
 
-<p>
-  <a href="https://github.com/musab068">
-    <img src="https://img.shields.io/badge/GitHub-musab068-0d1117?style=for-the-badge&logo=github&logoColor=white" />
-  </a>
-  <img src="https://img.shields.io/badge/Focus-Cybersecurity-111827?style=for-the-badge&logo=hackthebox&logoColor=9f7aea" />
-  <img src="https://img.shields.io/badge/Networking-Intermediate-111827?style=for-the-badge&logo=cisco&logoColor=60a5fa" />
-  <img src="https://img.shields.io/badge/Linux-Learning-111827?style=for-the-badge&logo=linux&logoColor=ffffff" />
-</p>
+`Learning systems. Understanding networks. Building foundations.`
+
+<br>
+
+<a href="https://github.com/musab068">
+<img src="https://img.shields.io/badge/GitHub-@musab068-E5E7EB?style=for-the-badge&logo=github&logoColor=E5E7EB&labelColor=111827&color=312E81"/>
+</a>
 
 </div>
 
 ---
 
-## `> whoami`
+## `01 // WHOAMI`
 
 ```text
-MUSAB UMAIR
-──────────────────────────────────────────────
-Role        : Cybersecurity Learner
-Primary     : Networking
-Exploring   : Linux & Cybersecurity Fundamentals
-Environment : Windows / Linux
-Status      : Learning • Experimenting • Building
-
-$ whoami
-musab068
-
-$ echo "The goal is not to know everything.
-         The goal is to keep learning."
+┌──────────────────────────────────────────────────────────┐
+│                                                          │
+│  MUSAB UMAIR                                             │
+│                                                          │
+│  > Cybersecurity Learner                                 │
+│  > Networking Focus                                      │
+│  > Linux Explorer                                        │
+│                                                          │
+│  Currently learning how systems, networks and            │
+│  security concepts work together.                        │
+│                                                          │
+└──────────────────────────────────────────────────────────┘
 ```
+
+I'm **MUSAB UMAIR**, a technology enthusiast building a foundation in **networking, Linux and cybersecurity**.
+
+My strongest area right now is **networking**. I'm gradually expanding into Linux, system administration, cybersecurity fundamentals and practical security labs.
+
+I believe in understanding the fundamentals before jumping into advanced tools.
+
+> `Learn → Experiment → Troubleshoot → Understand → Build`
 
 ---
 
-## `> about_me`
-
-I'm **MUSAB UMAIR**, a technology enthusiast currently building my foundation in **cybersecurity and networking**.
-
-My strongest area right now is **networking**, while I'm gradually expanding my knowledge of **Linux, cybersecurity fundamentals, system administration, and practical troubleshooting**.
-
-I prefer learning by understanding how systems actually work — experimenting, breaking things in controlled environments, troubleshooting problems, and documenting what I learn.
-
-```text
-┌─────────────────────────────────────────────┐
-│                                             │
-│   NETWORKING        ████████████████░░       │
-│   LINUX             ████░░░░░░░░░░░░       │
-│   CYBERSECURITY     █████░░░░░░░░░░░       │
-│   PROGRAMMING       ███░░░░░░░░░░░░░       │
-│                                             │
-│   Learning > Pretending                     │
-│                                             │
-└─────────────────────────────────────────────┘
-```
-
----
-
-## `> current_focus`
+## `02 // CURRENT FOCUS`
 
 <table>
 <tr>
 <td width="50%" valign="top">
 
-### 🌐 Networking
+### <img src="https://img.shields.io/badge/NETWORKING-60A5FA?style=flat-square&labelColor=111827"/>
+
+**Primary Focus**
 
 - TCP/IP fundamentals
-- IP addressing & subnetting
-- LAN / WAN concepts
+- IP addressing
+- Subnetting
 - DNS & DHCP
+- LAN / WAN
 - Routing fundamentals
 - Network troubleshooting
-- Understanding network infrastructure
+- Network infrastructure
 
 </td>
+
 <td width="50%" valign="top">
 
-### 🐧 Linux
+### <img src="https://img.shields.io/badge/LINUX-22D3EE?style=flat-square&labelColor=111827"/>
+
+**Currently Learning**
 
 - Linux fundamentals
-- Command-line basics
-- Filesystem navigation
+- Command line
+- Filesystem
 - Permissions
-- Processes & services
-- Basic system administration
-- Learning through hands-on practice
+- Processes
+- Services
+- Basic administration
+- Terminal workflow
 
 </td>
 </tr>
@@ -97,102 +91,206 @@ I prefer learning by understanding how systems actually work — experimenting, 
 
 ---
 
-## `> cybersecurity`
-
-My current cybersecurity journey is focused on building a **strong technical foundation first**.
-
-```text
-[✓] Networking fundamentals
-[✓] Understanding operating systems
-[✓] Basic Linux exploration
-[→] Cybersecurity fundamentals
-[→] Security tools & concepts
-[→] Practical labs
-[→] System & network security
-[ ] Advanced security research
-```
-
-> **Learning principle:** Build the fundamentals first, then specialize.
-
----
-
-## `> tech_stack`
-
-### Networking
-
-<p>
-<img src="https://skillicons.dev/icons?i=cisco&theme=dark" />
-</p>
-
-`TCP/IP` · `DNS` · `DHCP` · `Routing` · `Subnetting` · `LAN/WAN`
-
-### Operating Systems
-
-<p>
-<img src="https://skillicons.dev/icons?i=windows,linux&theme=dark" />
-</p>
-
-### Tools & Platforms
-
-<p>
-<img src="https://skillicons.dev/icons?i=git,github,vscode&theme=dark" />
-</p>
-
-`Git` · `GitHub` · `VS Code` · `Windows Terminal`
-
----
-
-## `> skills`
-
-<table>
-<tr>
-<td align="center" width="25%">
-
-### 🌐
-**Networking**
-
-Good foundation
-
-</td>
-
-<td align="center" width="25%">
-
-### 🐧
-**Linux**
-
-Currently learning
-
-</td>
-
-<td align="center" width="25%">
-
-### 🛡️
-**Cybersecurity**
-
-Exploring
-
-</td>
-
-<td align="center" width="25%">
-
-### 💻
-**Programming**
-
-Beginner
-
-</td>
-</tr>
-</table>
-
----
-
-## `> github_stats`
+## `03 // CYBERSECURITY`
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=musab068&show_icons=true&hide_border=true&bg_color=0d1117&title_color=a78bfa&icon_color=60a5fa&text_color=c9d1d9&ring_color=8b5cf6&include_all_commits=true&count_private=true" height="165"/>
+<img src="https://img.shields.io/badge/FOUNDATION-312E81?style=for-the-badge&logo=shield&logoColor=EDE9FE"/>
+<img src="https://img.shields.io/badge/NETWORK_SECURITY-1E3A8A?style=for-the-badge&logo=cisco&logoColor=93C5FD"/>
+<img src="https://img.shields.io/badge/LINUX_SECURITY-164E63?style=for-the-badge&logo=linux&logoColor=67E8F9"/>
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=musab068&layout=compact&hide_border=true&bg_color=0d1117&title_color=a78bfa&text_color=c9d1d9&langs_count=6" height="165"/>
+</div>
+
+<br>
+
+```text
+CYBERSECURITY ROADMAP
+────────────────────────────────────────────────────────
+
+[✓] Networking fundamentals
+[✓] Operating system fundamentals
+[✓] Basic Linux exploration
+
+[→] Cybersecurity fundamentals
+[→] Network security
+[→] System security
+[→] Security tools
+[→] Practical labs
+
+[ ] Advanced security research
+[ ] Specialization
+```
+
+> **Principle:** Understand the system first. Then learn how to secure it.
+
+---
+
+## `04 // TECH STACK`
+
+### `NETWORKING`
+
+<div align="center">
+
+<img src="https://skillicons.dev/icons?i=cisco&theme=dark" />
+
+<br><br>
+
+<img src="https://img.shields.io/badge/TCP%2FIP-111827?style=flat-square&logoColor=60A5FA"/>
+<img src="https://img.shields.io/badge/DNS-111827?style=flat-square&logoColor=60A5FA"/>
+<img src="https://img.shields.io/badge/DHCP-111827?style=flat-square&logoColor=60A5FA"/>
+<img src="https://img.shields.io/badge/Routing-111827?style=flat-square&logoColor=60A5FA"/>
+<img src="https://img.shields.io/badge/Subnetting-111827?style=flat-square&logoColor=60A5FA"/>
+
+</div>
+
+### `OPERATING SYSTEMS`
+
+<div align="center">
+
+<img src="https://skillicons.dev/icons?i=windows,linux&theme=dark" />
+
+</div>
+
+### `TOOLS`
+
+<div align="center">
+
+<img src="https://skillicons.dev/icons?i=git,github,vscode&theme=dark" />
+
+</div>
+
+---
+
+## `05 // SKILLS`
+
+<table>
+<tr>
+
+<td align="center" width="25%">
+
+### `01`
+
+<img src="https://img.shields.io/badge/NETWORKING-60A5FA?style=for-the-badge&labelColor=111827"/>
+
+**Good Foundation**
+
+</td>
+
+<td align="center" width="25%">
+
+### `02`
+
+<img src="https://img.shields.io/badge/LINUX-22D3EE?style=for-the-badge&labelColor=111827"/>
+
+**Learning**
+
+</td>
+
+<td align="center" width="25%">
+
+### `03`
+
+<img src="https://img.shields.io/badge/SECURITY-A78BFA?style=for-the-badge&labelColor=111827"/>
+
+**Exploring**
+
+</td>
+
+<td align="center" width="25%">
+
+### `04`
+
+<img src="https://img.shields.io/badge/PROGRAMMING-9CA3AF?style=for-the-badge&labelColor=111827"/>
+
+**Beginner**
+
+</td>
+
+</tr>
+</table>
+
+---
+
+## `06 // LEARNING LAB`
+
+```text
+                    ┌─────────────────┐
+                    │   MUSAB UMAIR   │
+                    └────────┬────────┘
+                             │
+              ┌──────────────┼──────────────┐
+              │              │              │
+              ▼              ▼              ▼
+         ┌─────────┐    ┌─────────┐    ┌────────────┐
+         │NETWORKING│    │  LINUX  │    │ SECURITY   │
+         └────┬────┘    └────┬────┘    └─────┬──────┘
+              │              │               │
+              ▼              ▼               ▼
+          TCP/IP          CLI            Fundamentals
+          Routing        Systems        Network Security
+          Subnetting     Permissions    Security Labs
+              │              │               │
+              └──────────────┼───────────────┘
+                             ▼
+                       PRACTICAL LABS
+                             │
+                             ▼
+                         REAL PROJECTS
+```
+
+---
+
+## `07 // PROJECTS`
+
+<div align="center">
+
+<img src="https://img.shields.io/badge/BUILDING-312E81?style=for-the-badge&logo=github&logoColor=EDE9FE"/>
+
+</div>
+
+<br>
+
+### 🌐 `Networking Lab`
+
+> **Status:** `PLANNED`
+
+A hands-on collection of networking experiments, troubleshooting notes, configurations and practical concepts.
+
+`Networking` `TCP/IP` `DNS` `Routing`
+
+---
+
+### 🐧 `Linux Learning Lab`
+
+> **Status:** `PLANNED`
+
+A practical Linux learning repository documenting commands, system concepts, permissions, processes and experiments.
+
+`Linux` `CLI` `Systems`
+
+---
+
+### 🛡️ `Cybersecurity Fundamentals`
+
+> **Status:** `PLANNED`
+
+A structured learning repository covering cybersecurity fundamentals, network security concepts and controlled laboratory exercises.
+
+`Cybersecurity` `Networking` `Linux`
+
+---
+
+> **Projects will be added here as they become real. No fake projects.**
+
+---
+
+## `08 // GITHUB`
+
+<div align="center">
+
+<img src="https://github-readme-stats.vercel.app/api?username=musab068&show_icons=true&hide_border=true&bg_color=0D1117&title_color=A78BFA&icon_color=60A5FA&text_color=D1D5DB&ring_color=8B5CF6&include_all_commits=true" height="165"/>
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=musab068&layout=compact&hide_border=true&bg_color=0D1117&title_color=A78BFA&text_color=D1D5DB&langs_count=6" height="165"/>
 
 </div>
 
@@ -200,150 +298,102 @@ Beginner
 
 <div align="center">
 
-<img src="https://streak-stats.demolab.com?user=musab068&theme=github-dark-blue&hide_border=true&background=0D1117&ring=8B5CF6&fire=60A5FA&currStreakLabel=A78BFA" width="70%"/>
+<img src="https://streak-stats.demolab.com?user=musab068&theme=dark&hide_border=true&background=0D1117&ring=A78BFA&fire=60A5FA&currStreakLabel=67E8F9&sideLabels=D1D5DB&currStreakNum=E5E7EB&sideNums=E5E7EB&dates=9CA3AF" width="70%"/>
 
 </div>
 
 ---
 
-## `> contribution_graph`
+## `09 // CONTRIBUTIONS`
 
 <div align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=musab068&bg_color=0d1117&color=c9d1d9&line=8b5cf6&point=60a5fa&area=true&hide_border=true" width="100%"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=musab068&bg_color=0D1117&color=D1D5DB&line=8B5CF6&point=67E8F9&area=true&hide_border=true&custom_title=MUSAB%20UMAIR%20%E2%80%94%20Contribution%20Graph" width="100%"/>
 
 </div>
 
 ---
 
-## `> featured_projects`
-
-> Projects will appear here as I build and publish them.
-
-<div align="center">
-
-<table>
-<tr>
-<td width="50%" valign="top">
-
-### 🛡️ Cybersecurity Lab
-
-**Coming soon**
-
-A practical learning project documenting cybersecurity fundamentals, experiments, and notes.
-
-`Cybersecurity` `Linux` `Networking`
-
-</td>
-
-<td width="50%" valign="top">
-
-### 🌐 Networking Lab
-
-**Coming soon**
-
-Hands-on networking experiments, configurations, troubleshooting notes, and useful references.
-
-`Networking` `TCP/IP` `Systems`
-
-</td>
-</tr>
-
-<tr>
-<td width="50%" valign="top">
-
-### 🐧 Linux Notes
-
-**Coming soon**
-
-A structured collection of Linux commands, concepts, experiments, and practical notes.
-
-`Linux` `CLI` `Systems`
-
-</td>
-
-<td width="50%" valign="top">
-
-### 🔬 Future Project
-
-**Coming soon**
-
-Something useful is being built here.
-
-`Learning` `Experimentation` `Technology`
-
-</td>
-</tr>
-</table>
-
-</div>
-
----
-
-## `> learning_roadmap`
+## `10 // ROADMAP`
 
 ```text
 2026
 │
-├── Networking
+├── NETWORKING
 │   ├── TCP/IP
 │   ├── Subnetting
 │   ├── Routing
-│   └── Network Troubleshooting
+│   ├── DNS / DHCP
+│   └── Troubleshooting
 │
-├── Linux
+├── LINUX
 │   ├── CLI
+│   ├── Filesystem
 │   ├── Permissions
 │   ├── Processes
 │   └── System Administration
 │
-├── Cybersecurity
+├── CYBERSECURITY
 │   ├── Security Fundamentals
 │   ├── Network Security
-│   ├── Operating System Security
+│   ├── System Security
 │   └── Practical Labs
 │
-└── Programming
-    └── Building programming fundamentals
+└── PROGRAMMING
+    └── Build Strong Fundamentals
 ```
 
 ---
 
-## `> philosophy`
+## `11 // PHILOSOPHY`
 
 <div align="center">
+
+### `01`
+
+<img src="https://img.shields.io/badge/UNDERSTAND-BEFORE%20BUILDING-312E81?style=for-the-badge&labelColor=0D1117"/>
+
+### `02`
+
+<img src="https://img.shields.io/badge/LEARN-BEFORE%20CLAIMING-1E3A8A?style=for-the-badge&labelColor=0D1117"/>
+
+### `03`
+
+<img src="https://img.shields.io/badge/BUILD-BEFORE%20TALKING-164E63?style=for-the-badge&labelColor=0D1117"/>
+
+<br><br>
 
 > **"Understand the system before trying to secure it."**
 
 <br>
 
-`Learn → Experiment → Break → Troubleshoot → Understand → Build`
+`Learn` &nbsp;→&nbsp; `Experiment` &nbsp;→&nbsp; `Troubleshoot` &nbsp;→&nbsp; `Understand` &nbsp;→&nbsp; `Build`
 
 </div>
 
 ---
 
-## `> connect`
+## `12 // CONNECT`
 
 <div align="center">
 
 <a href="https://github.com/musab068">
-<img src="https://img.shields.io/badge/GitHub-musab068-0d1117?style=for-the-badge&logo=github&logoColor=white" />
+<img src="https://img.shields.io/badge/GitHub-@musab068-E5E7EB?style=for-the-badge&logo=github&logoColor=E5E7EB&labelColor=111827&color=312E81"/>
 </a>
 
 <!--
-Replace the placeholders below with your actual profiles.
+ADD YOUR SOCIAL LINKS HERE
 
 <a href="https://linkedin.com/in/YOUR_USERNAME">
-<img src="https://img.shields.io/badge/LinkedIn-YOUR_USERNAME-0d1117?style=for-the-badge&logo=linkedin&logoColor=60a5fa" />
+<img src="https://img.shields.io/badge/LinkedIn-YOUR_USERNAME-60A5FA?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=111827"/>
 </a>
 
 <a href="https://instagram.com/YOUR_USERNAME">
-<img src="https://img.shields.io/badge/Instagram-YOUR_USERNAME-0d1117?style=for-the-badge&logo=instagram&logoColor=a78bfa" />
+<img src="https://img.shields.io/badge/Instagram-YOUR_USERNAME-A78BFA?style=for-the-badge&logo=instagram&logoColor=white&labelColor=111827"/>
 </a>
 
 <a href="mailto:YOUR_EMAIL">
-<img src="https://img.shields.io/badge/Email-YOUR_EMAIL-0d1117?style=for-the-badge&logo=gmail&logoColor=ffffff" />
+<img src="https://img.shields.io/badge/Email-YOUR_EMAIL-22D3EE?style=for-the-badge&logo=gmail&logoColor=white&labelColor=111827"/>
 </a>
 -->
 
@@ -353,33 +403,21 @@ Replace the placeholders below with your actual profiles.
 
 <div align="center">
 
-### `SYSTEM STATUS`
-
 ```text
-[ ONLINE ]
-[ LEARNING ]
-[ BUILDING ]
-[ EXPLORING ]
+┌───────────────────────────────────────┐
+│                                       │
+│          MUSAB UMAIR                  │
+│                                       │
+│   [ ONLINE ]                          │
+│   [ LEARNING ]                        │
+│   [ BUILDING ]                        │
+│   [ EXPLORING ]                       │
+│                                       │
+└───────────────────────────────────────┘
 ```
 
-<br>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,45:312E81,75:16112B,100:0D1117&height=120&section=footer" width="100%"/>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:6d28d9,50:111827,100:0d1117&height=100&section=footer" width="100%"/>
-
-<sub>Designed & maintained by <b>MUSAB UMAIR</b> · @musab068</sub>
+<sub>Built with curiosity • Maintained by <b>MUSAB UMAIR</b> • @musab068</sub>
 
 </div>
-<!--
-**musab068/musab068** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
